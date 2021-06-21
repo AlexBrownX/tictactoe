@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    <string name="current_player">Current Player:</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="restart">Restart</string>
+    <string name="playWins">Player %s wins!</string>
+    <string name="one_player">Vs. Computer</string>
+    <string name="two_player">2 Player</string>
+    <string name="first_move">First move</string>
+    <string name="draw">Draw!</string>
+</resources>
